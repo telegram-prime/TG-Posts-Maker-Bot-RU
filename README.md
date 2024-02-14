@@ -3,8 +3,8 @@
 ## Телеграмм-бот, предназначенный для создания уникального контента для рассылки. Это ключевой и неотъемлемый инструмент для людей, работающих с рассылками в Telegram.
 ## Если Вы работаете с рассылками в Telegram, Т4ВТ - ваш незаменимый помощник. Этот бот поможет Вам создать уникальные сообщения для массовой рассылки.
  
- * Software description is also available in English. See [T4BT - TG Posts Maker Bot EN](https://github.com/telegram-prime/TG-Posts-Maker-Bot) [In progress]
- * 描述也可以在Chineese中提供。 参见 [T4BT - TG Posts Maker Bot CN](https://github.com/telegram-prime/TG-Posts-Maker-Bot-CN) [In progress]
+ * Software description is also available in English. See [T4BT - TG Posts Maker Bot EN](https://github.com/telegram-prime/TG-Posts-Maker-Bot)
+ * 描述也可以在Chineese中提供。 参见 [T4BT - TG Posts Maker Bot CN](https://github.com/telegram-prime/TG-Posts-Maker-Bot-CN)
 
 
 ## Что умеет T4BT Бот.
