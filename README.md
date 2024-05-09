@@ -80,17 +80,13 @@
 
 ## Скриншоты:
 
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/c3ef2999-0918-4f33-aca6-95c386f25366" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/67c5eebe-478e-4ac2-b625-c4c86d7a7690" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/9dbc2daf-8336-434b-9638-4cc3e4ef94ee" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/694ae9c9-c31b-4ab8-ba75-02fb50a11f31" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/0c592191-4f60-44d3-8e4b-ed5f60731497" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/737571bf-7e2a-446e-ab1a-066f8c9a1bab" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/7532affb-89b7-4d53-98c8-ffc413af1ba4" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/e74b0337-e438-4759-aa9a-28b96dcd1ecd" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/4a9141d5-4a2e-4590-bc1a-e8fba3552e79" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/0b1ca886-502f-411e-82f1-7b55ca07002b" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/67df658c-25d9-4043-b873-459ed0c5f273" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/58ca7d9b-64bc-421e-a97f-7f7424babca0" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/4e3a4c89-4445-45b1-8e4b-0be4e752240f" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/081904a9-8ec6-459e-8061-5fac7b6b35fd" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/7c895433-6c83-435e-ae12-3fec4cb0fa21" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/40dd6cb6-58d5-4bac-87ee-76c82ab017f9" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/d48d21df-9f51-49b6-91ac-4ab544d2436a" width="200" height="200">
+<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/7b227460-399e-43ef-88fe-a8afc3d8e1ed" width="200" height="200">
 
 
 
