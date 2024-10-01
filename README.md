@@ -21,6 +21,7 @@
  - Возможность запуска одновременно множества ботов и управления ими из интерфейса программы.
  - Возможность выставить количество неудачных попыток выдачи поста рассылающему аккаунту.
  - Возможность задать описание к каждому отправляемому медиа файлу.
+ - Опция использовать множество каналов или один канал в виде источника данных для создания постов.
  - В описании к медиа файлу, как и просто в текстовом посте, поддерживается спинтакc, формат: [ICODE]{Text_1|Text_2|Text_3|Text_4}[/ICODE].
  - Так же поддерживается [ICODE]MARKDOWN[/ICODE] формат для создания гиперссылки в описании к медиа файлу либо в обычном тесктовом посте, формат [ICODE][Link Text](https://www.example.com)[/ICODE].
  - Возможность создания поста как с кнопками под постом, так и без кнопок.
@@ -31,6 +32,7 @@
  - Возможность отдельно создать дефолтный пост (он же пост по-умолчанию) для бота. Т.е. при любом переходе в бота (напрямую по юзернейму) каждому посетителю будет показан этот пост. Он может отличаться от тех созданных постов, которые предназначены для рассылки.
  - Встроенный рандомизатор изображений и видео.
  - Встроенный конвертер обычных видео в видео в кружочке.
+ - Опция постить рандомизированные посты в выделенные каналы для дальнейшей рассылки через перост.
  - Возможность запускать бота через прокси.
  - Возможность запускать бота на определенный промежуток времени.
  - Возможность создавать посты т.н. "проливом через канал", т.е. бот будет принимать медиа или текст от имени канала, а не от админа бота.
@@ -80,10 +82,10 @@
 
 ## Скриншоты:
 
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/58ca7d9b-64bc-421e-a97f-7f7424babca0" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/4e3a4c89-4445-45b1-8e4b-0be4e752240f" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/081904a9-8ec6-459e-8061-5fac7b6b35fd" width="200" height="200">
-<img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/7c895433-6c83-435e-ae12-3fec4cb0fa21" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/734a7631-de11-4cfc-a8e3-96c7accae3f8" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/2f6ee24d-3b28-4e68-963b-8c198a32fb60" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/69a38774-b0a0-4ac2-b2ec-67d10dbe67b9" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/039d6006-85b8-43a6-9620-54cc7f01d63c" width="200" height="200">
 <img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/40dd6cb6-58d5-4bac-87ee-76c82ab017f9" width="200" height="200">
 <img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/d48d21df-9f51-49b6-91ac-4ab544d2436a" width="200" height="200">
 <img src="https://github.com/telegram-prime/TG-Posts-Maker-Bot-RU/assets/94137664/7b227460-399e-43ef-88fe-a8afc3d8e1ed" width="200" height="200">
@@ -94,7 +96,6 @@
 ##  Контакты:
 - Email:    manager[@]telegramprime.com
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.com/discord-contact)
 - Element:  [Send message](https://telegramprime.com/element-contact)
